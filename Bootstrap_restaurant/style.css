@@ -1,0 +1,31 @@
+.fa-facebook-square, .fa-twitter-square{
+    color: white;
+}
+
+.header-carousel-item{
+    height: 450px;
+}
+
+.bg-cover{
+    background-size: cover;
+    background-position: center center;
+}
+
+.carousel-caption{
+    background-color: rgba(0,0,0,0.6);
+}
+
+.bg-index{
+    z-index: 1;
+}
+
+.container-index{
+    z-index: 2;
+}
+
+@media (min-width: 768px) {
+    .text-md-dark{
+        color: #333;
+    }
+
+}
